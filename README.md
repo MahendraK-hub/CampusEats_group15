@@ -1,18 +1,19 @@
 # CampusEats_group15
+# Group11
 
-Group members
-    1)Maniparthu Manne 
-    2)Poornima pulakandam
-    3)Vineela Punuru
-    4)Koosha Sharifani
+# Group members
+* Maniparthu Manne 
+* Poornima pulakandam
+* Vineela Punuru
+* Koosha Sharifani
     
-Project Introduction: 
+# Project Introduction: 
 Students love using food delivery services to order food on campus. CampusEats is website to deliver food on a college campus which provides food delivery 
 services to students and staff of the college. The main idea is that the delivery personnel are the students or other authorized employee’s of the university. 
 We have an existing database for this website to which we add extra tables and attributes to provide ratings for the drivers and restaurants. 
 The ratings are useful for the customers to judge the restaurants,their menu and driver.A customer can be a student, faculty, or staff member on campus. 
 
-Business Rules: 
+# Business Rules: 
 • All drivers will be students, but not all students are drivers. Drivers will beasubtype of student. 
 
 • Customers are subtype of persons, but are represented by the entities of staff, faculty, and student 
@@ -27,7 +28,7 @@ Business Rules:
 
 • Customers will be able to view the average ratings of restaurants.
 
-Data Dictionary:
+# Data Dictionary:
 Person: 
 Person_id- Unique id for a person 
 Person_name- Name of a person 
@@ -87,5 +88,5 @@ Restaurant_ratings:
 Restaurant_rating_id- Id for rating the restaurant Rating_id- Id of the rating
 
 
-EERD is uploded separatley in other file
+# EERD is uploaded separately
 
