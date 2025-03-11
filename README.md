@@ -5,7 +5,7 @@ Group members
     2)Poornima pulakandam
     3)Vineela Punuru
     4)Koosha Sharifani
-    5)Guna Konda
+    5)Mahendra Konda
     
 Project Introduction: 
 Students love using food delivery services to order food on campus. CampusEats is website to deliver food on a college campus which provides food delivery 
